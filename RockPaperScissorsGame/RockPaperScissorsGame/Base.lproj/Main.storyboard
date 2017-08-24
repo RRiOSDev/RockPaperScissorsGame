@@ -133,9 +133,9 @@
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" alpha="0.20000000298023224" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" image="rock-paper-scissors1" translatesAutoresizingMaskIntoConstraints="NO" id="eLo-FT-dDN">
-                                <rect key="frame" x="77" y="84" width="221" height="200"/>
+                                <rect key="frame" x="36" y="84" width="303" height="300"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="200" id="pTi-rQ-UEb"/>
+                                    <constraint firstAttribute="height" constant="300" id="pTi-rQ-UEb"/>
                                 </constraints>
                             </imageView>
                         </subviews>
@@ -143,7 +143,7 @@
                         <constraints>
                             <constraint firstAttribute="centerX" secondItem="oWF-kO-bdR" secondAttribute="centerX" id="1AC-YQ-j09"/>
                             <constraint firstAttribute="bottom" secondItem="XYK-f5-a0U" secondAttribute="bottom" constant="123" id="1iw-Sc-acc"/>
-                            <constraint firstItem="eLo-FT-dDN" firstAttribute="leading" secondItem="fUW-cl-TqL" secondAttribute="leadingMargin" constant="61" id="4Uc-ze-hko"/>
+                            <constraint firstItem="eLo-FT-dDN" firstAttribute="leading" secondItem="fUW-cl-TqL" secondAttribute="leadingMargin" constant="20" id="4Uc-ze-hko"/>
                             <constraint firstAttribute="centerX" secondItem="XYK-f5-a0U" secondAttribute="centerX" id="GYW-wZ-ubV"/>
                             <constraint firstItem="eLo-FT-dDN" firstAttribute="top" secondItem="iZ0-cp-WG8" secondAttribute="bottom" constant="64" id="L1B-Tz-zwX"/>
                             <constraint firstItem="XYK-f5-a0U" firstAttribute="top" secondItem="oWF-kO-bdR" secondAttribute="bottom" constant="75" id="Mn6-ff-cER"/>
