@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AE16A4F069BD3243823655E711CAEDBEB9C6522D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AE16A4F069BD3243823655E711CAEDBEB9C6522D" : 9223372036854775807,
+    "C4A97974195067EAA64A45599E308CB05FE0D9D4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "053792E5-619B-4634-B635-BFB4814A9C0E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AE16A4F069BD3243823655E711CAEDBEB9C6522D" : "RPSGame\/",
+    "C4A97974195067EAA64A45599E308CB05FE0D9D4" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RockPaperScissorsGame",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RockPaperScissorsGame\/RockPaperScissorsGame.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RRiOSDev\/RockPaperScissorsGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AE16A4F069BD3243823655E711CAEDBEB9C6522D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RRiOSDev\/iOS-PersistenceCoreData.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4A97974195067EAA64A45599E308CB05FE0D9D4"
+    }
+  ]
+}
